@@ -52,8 +52,8 @@
 		{
 			"id": "juejin",
 			"type": "juejin",
-			"value": "https://com.z2m.store",
-			"label": "稀土掘金",
+			"value": "https://talk.z2m.store",
+			"label": "说说",
 			"order": 2
 		},
 		{
