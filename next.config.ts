@@ -10,9 +10,8 @@ const nextConfig: NextConfig = {
 		ignoreBuildErrors: true
 	},
 	experimental: {
-		scrollRestoration: false,
-		// 新增这一行，全局开启 edge 运行时
-		runtime: "edge"
+		scrollRestoration: false
+
 	},
 	turbopack: {
 		rules: {
