@@ -5,5 +5,54 @@
 		"url": "https://xchat.z2m.store/chat",
 		"description": "一款仿微信的轻聊天软件 有很多特色功能",
 		"stars": 3
+	},
+	{
+		"name": "个人主页",
+		"avatar": "https://img.z2m.store/file/public/1778862620159_g.png",
+		"url": "https://home.z2m.store",
+		"description": "个人博客主页",
+		"stars": 3
+	},
+	{
+		"name": "笔记📒",
+		"avatar": "https://bj.z2m.store/logo.png",
+		"url": "https://bj.z2m.store",
+		"description": "一个安防人的笔记",
+		"stars": 3
+	},
+	{
+		"name": "小鱼钓猫🐱",
+		"avatar": "https://blog.z2m.store/_astro/1.r-h2JhmR_1oDWug.webp",
+		"url": "https://blog.z2m.store",
+		"description": "技术成长、生活随笔",
+		"stars": 3
+	},
+	{
+		"name": "个人博客",
+		"avatar": "https://com.z2m.store/img/butterfly-icon.png",
+		"url": "https://com.z2m.store",
+		"description": "读史可以明智,知古方能鉴今",
+		"stars": 3
+	},
+	{
+		"name": "朋友圈",
+		"avatar": "https://img.z2m.store/file/public/1779520719876_pyq.jpg",
+		"url": "https://py.z2m.store",
+		"description": "你我的朋友圈",
+		"stars": 3
+	},
+	{
+		"name": "BBS",
+		"avatar": "https://img.eysnter.cn/file/posts/icon/1780993886377_0122.webp",
+		"url": "https://bbs.z2m.store",
+		"description": "极简论坛",
+		"stars": 3
+	},
+	{
+		"name": "碎碎念",
+		"avatar": "https://img.z2m.store/file/public/1778862620159_g.png",
+		"url": "https://yu.z2m.stor",
+		"description": "分享个人生活动态",
+		"stars": 3
 	}
 ]
