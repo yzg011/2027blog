@@ -8,5 +8,15 @@
 			"图片"
 		],
 		"stars": 3
+	},
+	{
+		"name": "挪车码",
+		"logo": "/images/share/2a1adc89f373818a.png",
+		"url": "https://mcar.z2m.store",
+		"description": "一个非常好用的自制挪车码软件 全网最好用",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
 	}
 ]
