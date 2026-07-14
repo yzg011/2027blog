@@ -47,18 +47,25 @@
 			"type": "github",
 			"value": "https://github.com/yzg011",
 			"label": "Github",
-			"order": 3
+			"order": 4
 		},
 		{
 			"id": "juejin",
 			"type": "juejin",
 			"value": "https://talk.z2m.store",
 			"label": "说说",
-			"order": 2
-		},
-    {
+			"order": 3
+		},  
+	 {
         "id": "wechat",
         "type": "wechat",
+        "value": "https://work.weixin.qq.com/kfid/kfc90518b0eacba59c3",
+        "label": "",
+        "order": 2
+    }，
+    {
+        "id": "qq",
+        "type": "qq",
         "value": "https://qm.qq.com/q/r12bWjBmlc",
         "label": "",
         "order": 1
@@ -69,7 +76,7 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 4,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
