@@ -8,5 +8,15 @@
 		"tags": [
 			"说说"
 		]
+	},
+	{
+		"name": "朋友圈",
+		"year": 2026,
+		"image": "https://img.z2m.store/file/public/1779520719876_pyq.jpg",
+		"url": "https://y00.cc.cd/blog/pyq",
+		"description": "我们的朋友圈",
+		"tags": [
+			"朋友圈"
+		]
 	}
 ]
