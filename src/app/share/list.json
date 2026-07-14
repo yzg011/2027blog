@@ -18,5 +18,15 @@
 			"工具"
 		],
 		"stars": 3
+	},
+	{
+		"name": "自助友链",
+		"logo": "/images/share/4c9c95b9ed628b4e.jpeg",
+		"url": "https://y00.cc.cd/blog/friend-link",
+		"description": "自助添加友链，网上自动审核",
+		"tags": [
+			"友链"
+		],
+		"stars": 3
 	}
 ]
