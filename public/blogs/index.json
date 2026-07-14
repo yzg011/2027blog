@@ -1,5 +1,17 @@
 [
   {
+    "slug": "friend-link",
+    "title": "友情链接",
+    "tags": [
+      "友链"
+    ],
+    "date": "2026-07-14T20:33",
+    "summary": "",
+    "cover": "/blogs/friend-link/652933f140544fb9.jpeg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "pyq",
     "title": "朋友圈",
     "tags": [
