@@ -56,13 +56,13 @@
 			"label": "说说",
 			"order": 2
 		},
-		{
-			"id": "qq",
-			"type": "qq",
-			"value": "https://qun.qq.com/universal-share/share?ac=1&authKey=nSXHnYDfRclHDz2I0xED5RpinKQ6PdrOsv24LX9sU7L5at%2BgmI3uwh16TaM9gCGK&busi_data=eyJncm91cENvZGUiOiIzMDU3ODc4MjciLCJ0b2tlbiI6IkN3R0JWc05mTDNoZFh2UUtOcXJoczNGbVFMcWtIZlkzUDVMdkFFYjR2dXJyZU0rbFBqUFBPK1dxaDBPakRhVmgiLCJ1aW4iOiIzNTcyMzkyNjgifQ==&data=MWhwQrE-D7gWj18bDqoL5rj44fz7wMVq7pf1cornch1NEoizS45EgZAdGyHZcxb7YdbtscrE_RJ05zG7MRcucl5IZl4lsILaHFGiVSTDQfw&svctype=5&tempid=h5_group_info",
-			"label": "",
-			"order": 1
-		}
+    {
+        "id": "qq",
+        "type": "link",
+        "value": "https://qm.qq.com/q/r12bWjBmlc",
+        "label": "QQ群",
+        "order": 1
+    }
 	],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
