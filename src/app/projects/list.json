@@ -28,5 +28,15 @@
 		"tags": [
 			"友链"
 		]
+	},
+	{
+		"name": "进入聊天室",
+		"year": 2026,
+		"image": "/images/project/779549391b126fc2.png",
+		"url": "https://xchat.z2m.store/invite/45b6c5aad20ed722bd3dc719c541d0c8",
+		"description": "进入聊天室",
+		"tags": [
+			"聊天室"
+		]
 	}
 ]
