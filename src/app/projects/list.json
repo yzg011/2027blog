@@ -38,5 +38,15 @@
 		"tags": [
 			"聊天室"
 		]
+	},
+	{
+		"name": "碎碎念",
+		"year": 2026,
+		"image": "blob:https://y00.cc.cd/6be51e25-f312-490b-b78b-7c42ec570171",
+		"url": "https://y00.cc.cd/blog/sslian",
+		"description": "生活随笔，个人碎碎念",
+		"tags": [
+			"碎碎念"
+		]
 	}
 ]
